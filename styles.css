@@ -86,7 +86,7 @@ nav .right a span {
     border: 2px solid var(--link-color);
     border-radius: 5px;
     margin-right: 10px;
-    margin-bottom: 125px;
+    margin-bottom: 100px;
     transition: .1s
 }
 
@@ -109,7 +109,7 @@ nav .right a span {
 /*Section 2: Skills Section */
 .skills-section {
     padding: 0 50px;
-    margin-bottom: 125px;
+    margin-bottom: 100px;
 }
 
 .skills-section h2 {
@@ -152,13 +152,13 @@ nav .right a span {
 /*Section 3: Activities Section */
 .activities-section {
     padding: 0 50px;
-    margin-bottom: 125px;
+    margin-bottom: 100px;
 }
 
 .activities-section h2 {
     text-align: center;
     font-size: 35px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 .activities-section .cells {
@@ -220,13 +220,13 @@ nav .right a span {
 /*Section 3: Activities Section */
 .education-section {
     padding: 0 50px;
-    margin-bottom: 125px;
+    margin-bottom: 100px;
 }
 
 .education-section h2 {
     text-align: center;
     font-size: 35px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 .education-section .cells {
@@ -373,4 +373,5 @@ nav .right a span {
     .education-section .cells .cell .right h4 {
         align-self: flex-start;
     }
+
 }
